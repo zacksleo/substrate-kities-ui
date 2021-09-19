@@ -72,12 +72,12 @@ https://github.com/zacksleo/substrate-kities-ui/blob/advanced-term-03/03_polkado
 
 ## Alice create kities
 
-![](./screenshots/alice-create-kities.png)
+![](.screenshots/alice-create-kities.png)
 
 ## Alice transfer kity to bob
 
-![](./screenshots/alice-transfer-kity-to-bob.png)
+![](.screenshots/alice-transfer-kity-to-bob.png)
 
 ### Kities of Bob
 
-![](./screenshots/kities-of-bob.png)
+![](.screenshots/kities-of-bob.png)
